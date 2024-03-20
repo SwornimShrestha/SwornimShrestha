@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Swornim Shrestha and I'm a FrontEnd Developer, from Nepal👻</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning MERN STACK<br>🎯 Goals: Keep Learning<br></p>
 
 ###
 
