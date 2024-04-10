@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN Stack <br>🎯 Goals:To be independent <br>🎲 Fun fact: I am good looking😉</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning MERN Stack <br>🎯 Goals:To be inspirational <br>🎲 Fun fact: I am good looking😉</p>
 
 
 
