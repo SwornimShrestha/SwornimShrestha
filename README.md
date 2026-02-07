@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Swornim Shrestha and I'm a Frontend Devloper, from Nepal👻</p>
+<p align="left">I am a software developer with strong expertise in React.js and Next.js and hands-on backend experience using Node.js and NestJS. Experienced in building scalable web applications, RESTful APIs, and user-friendly interfaces. Adept at working in Agile teams, collaborating across frontend and backend, and delivering reliable, performance-driven solutions for real-world business needs.</p>
 
 
 
